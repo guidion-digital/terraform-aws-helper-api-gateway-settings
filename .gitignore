@@ -1,0 +1,26 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+*tfplan*
+.terraformrc
+terraform.rc
+
+# Other stuff
+crash.log
+crash.*.log
+.DS_Store
+.idea/
+*.swp
+*.swo
+*~
+.vscode/
+*.code-workspace
+*.zip
+*.tar.gz
